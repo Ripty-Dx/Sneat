@@ -1,0 +1,18 @@
+@import url("../node_modules/bootstrap/dist/css/bootstrap.min.css");
+html,
+body {
+  background-color: #f4f4f8;
+  padding: 0px;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+.text-gray {
+  color: #526375;
+}
+.text-lightGray {
+  color: #b1b9c2;
+}
+.bg-lightGray {
+  background-color: #b1b9c2;
+}
